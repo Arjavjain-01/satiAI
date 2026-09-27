@@ -1,0 +1,24 @@
+notes.md
+data/
+*.glb
+*.pkl
+*.png
+*.mp4
+*.pyc
+__pycache__/
+explorer/debug_renders/
+depthanything/repo/
+
+
+# Environment variables (NEVER commit these!)
+.env
+.env.local
+.env.*.local
+.env.development
+.env.production
+viser.md
+learning.md
+!assets/
+!assets/*.mp4
+basedir/
+backendviewer/logos/*.png
