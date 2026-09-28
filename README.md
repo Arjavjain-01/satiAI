@@ -1,4 +1,4 @@
-# Mira — TreeHacks 2026
+# satiAI
 
 **An AI companion on smart glasses that understands your home in 3D.** When a dementia patient says "where are my pills?", Mira actually finds them.
 
