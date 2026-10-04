@@ -52,14 +52,6 @@ For someone with Alzheimer's, a searchable spatial memory isn't a convenience. I
 | **[securitycam/](securitycam/)** | Security camera streaming — mediamtx config for RTMP/RTSP/HLS/WebRTC ingestion. |
 | **[vic-backend/](vic-backend/)** | Backend services. |
 
-## Team
-
-| Member | Contributions |
-|--------|--------------|
-| **Nathan** | ML pipeline & GPU compute on Modal — object localization, 3D scene reconstruction, camera pose tracking with visual odometry. Security cam integration, point cloud viewer. |
-| **Victor** | Streaming video and audio from the Ray-Ban Meta SDK, linking to frontend, delivering audio feedback back to the user. |
-| **Madhuhaas** | Agentic system and tool-calling pipeline — pulling patient info, web search for medication lookup. Frontend development. |
-| **Antonio** | Online object localization, animated camera fly-to in the 3D viewer, high-level pitch direction, demo video editing. |
 
 ## What's Next
 
